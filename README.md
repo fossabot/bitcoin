@@ -2,6 +2,7 @@ Bitcoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fbitcoin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fbitcoin?ref=badge_shield)
 
 https://bitcoincore.org
 
@@ -80,3 +81,7 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fbitcoin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fbitcoin?ref=badge_large)
